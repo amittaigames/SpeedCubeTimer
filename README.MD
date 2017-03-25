@@ -1,4 +1,4 @@
-# SpeedCubeTimer
+# Speed Cube Timer
 
 ### What is it?
 
